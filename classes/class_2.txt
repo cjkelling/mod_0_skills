@@ -1,0 +1,11 @@
+Desk
+
+height:(integer/float)
+occupancy:(integer)
+wood:(boolean)
+color:(string)
+
+sit_at: (person can sit at the desk if there is room)
+work_on: (person can use the desk as an area to work)
+move: (a desk can be moved to where it is needed)
+draw_on: (you can write on the desk)
