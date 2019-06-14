@@ -1,0 +1,11 @@
+Grey Computer Desk
+
+height:(36)
+occupancy:(1)
+wood:(false)
+color:(grey)
+
+sit_at: I can sit at my desk
+work_on: I can do work on my desk
+move: I can move my desk to where I need it
+draw_on: I can draw on my desk if I want to
