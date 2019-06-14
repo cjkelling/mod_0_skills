@@ -1,0 +1,11 @@
+Laptop
+
+screen_size:(integer/float)
+color:(string)
+brand:(string)
+operating _system:(string)
+
+Open/close screen: (The user must open the screen to use the laptop and they often close it when they are finished)
+Power on/off: (The laptop has a power button for turning on and off.)
+Edit/modify software: (Using the operating system, the user can access software and modify things on the laptop)
+Connect remotely: (Using technology on the laptop, users can connect remotely with people or things)
