@@ -1,0 +1,11 @@
+MacBook Pro
+
+screen_size: 13
+color: silver
+brand: Apple
+operating_system: macOS
+
+open/close screen: I can open and close the screen
+Power on/off: I can power the laptop on and off
+Edit/modify software: I can edit or modify software on the laptop
+Connect remotely: I can connect remotely with people or objects via my Laptop
